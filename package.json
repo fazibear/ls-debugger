@@ -1,0 +1,25 @@
+{
+  "name": "ls-debugger",
+  "version": "0.5.1",
+  "description": "ls-proxy server for debugging lsp",
+  "bin": {
+    "ls-debugger": "./index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fazibear/ls-debugger.git"
+  },
+  "keywords": [
+    "lsp",
+    "proxy",
+    "debug"
+  ],
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/fazibear/ls-debugger/issues"
+  },
+  "homepage": "https://github.com/fazibear/ls-debugger#readme",
+  "dependencies": {
+    "json-rpc-2.0": "^1.6.0"
+  }
+}
