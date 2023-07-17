@@ -16,5 +16,9 @@ $ npm install -g ls-debugger
 
 ## TODO:
 
+- [x] new session indicator
+- [ ] Send info to editor
+- [ ] Better errors
 - [ ] Custom log file path 
 - [ ] Listen on unix socket to send messages to editor/server
+- [ ] logfile depends on server name
