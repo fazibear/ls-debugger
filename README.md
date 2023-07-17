@@ -5,7 +5,7 @@
 - install ls-debugger
 - point your editor to `ls-debugger`
 - 2nd param is a server you want to debug
-- rest od params are passed to the server as well
+- rest params are passed directly to the server
 - whole messages will be logged into `~/ls-debugger.log`
 
 ## Instalation:
